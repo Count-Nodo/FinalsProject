@@ -1,0 +1,38 @@
+
+
+.random-fact-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.random-fact {
+    margin-top: 20px;
+}
+
+.random-fact h3 {
+    font-size: 1.5rem;
+    color: #333333;
+}
+
+.random-fact p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #666666;
+}
+
+.loading {
+    font-size: 1.2rem;
+    color: #999999;
+    margin-top: 20px;
+}
+
+.error {
+    font-size: 1.2rem;
+    color: #ff0000;
+    margin-top: 20px;
+}
